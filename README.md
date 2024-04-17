@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a Mechanical Engineering Student at UT Arlinton.
 
 <!--
 **Baldy343/Baldy343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
