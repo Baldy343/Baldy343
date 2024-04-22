@@ -1,5 +1,6 @@
 ### I am a Mechanical Engineering Student at UT Arlington.
-
+![Baldy343's github stats](https://github-readme-stats.vercel.app/api?username=baldy343)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldy343)](https://github.com/baldy343/github-readme-stats)
 <!--
 **Baldy343/Baldy343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
